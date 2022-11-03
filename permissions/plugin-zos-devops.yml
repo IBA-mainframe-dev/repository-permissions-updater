@@ -1,7 +1,12 @@
 ---
 name: "zos-devops"
-github: "IBA-mainframe-dev/zOS-DevOps-Jenkins-plugin"
+github: "jenkinsci/zos-devops-plugin"
 paths:
-  - "org/jenkins-ci/plugins/zos-devops"
+  - "io/jenkins/plugins/zos-devops"
 developers:
   - "iba_mainframe_dev"
+  - "VKrus"
+  - "Dereliass"
+  - "IlyaAbnitski"
+  - "Studenich"
+  - "AnatolyKolbasin"
